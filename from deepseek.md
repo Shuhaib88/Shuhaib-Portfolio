@@ -27,6 +27,9 @@
 ### HackTheBox Pro Hacker
 ![HackTheBox Rank](https://img.shields.io/badge/HackTheBox-Pro%20Hacker-9FEF00?style=for-the-badge)
 
+![image](https://github.com/user-attachments/assets/66fdf5eb-b248-4abf-8cff-b0e3e39e7724)
+
+
 ### Penetration Testing Tools
 - Metasploit Framework 💻
 - Burp Suite 🕵️
