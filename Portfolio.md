@@ -1,5 +1,39 @@
 # Hi there, I'm Muhammed Shuhaib! 👋
 
+## 🎓 Education & Certifications
+
+<div align="center">
+  
+| Qualification | Institution | Status | Year |
+|--------------|------------|--------|------|
+| <img src="https://img.icons8.com/color/48/000000/university.png" width="20"/> **B.Tech in Electronics & Communication** | Your University | ✅ Completed | 2022 |
+| <img src="https://img.icons8.com/color/48/000000/security-checked.png" width="20"/> **CEH (Certified Ethical Hacker)** | RedTeam Hacker Academy | ✅ Certified | 2023 |
+| <img src="https://simpleicons.org/icons/hackthebox.svg" width="20"/> **Pro Hacker 🏅** | Hack The Box | 🏆 Achieved | [![HTB Pro](https://img.shields.io/badge/Hack_The_Box-Pro_Hacker-9FEF00?style=flat-square&logo=Hack-The-Box&logoColor=black)](https://app.hackthebox.com/profile/813709) |
+| <img src="https://img.icons8.com/fluency/48/000000/security-configuration.png" width="20"/> **CEH Master (Practicals)** | EC-Council | 🚧 In Progress | 20XX |
+
+![Graduation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+<details>
+<summary><b>📚 Current Learning Progress</b></summary>
+
+![CEH Master Preparation](https://progress-bar.dev/65/?title=CEH+Master&width=400&color=brightgreen)
+</details>
+
+![Graduation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
+
+<!-- Animated line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Always+learning+%F0%9F%93%9A;Security+Enthusiast+%F0%9F%94%92;Full-Stack+Developer+%E2%9C%A8" alt="Typing SVG" />
+
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9FEF00&width=435&lines=Pro+Hacker+%F0%9F%91%BE;Security+Researcher+%F0%9F%94%92" alt="Typing SVG" />
+
+
+
+
 ### Full Stack Developer & Cybersecurity Enthusiast
 ---
 
