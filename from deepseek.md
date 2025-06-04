@@ -22,6 +22,22 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## 🗃️ Databases & Storage
+
+### **SQL Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **NoSQL & Cloud Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **ORM/Query Builders**
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
 ## 🔐 Cybersecurity Skills
 
 ### HackTheBox Pro Hacker
@@ -37,31 +53,35 @@
 - Wireshark 📡
 - John the Ripper 🔑
 - SQLmap 🗃️
+- Hydra
+- Cracking Tools like HashCat and John
+- Aircrackng
+- Directory Tools like Gobuster, Dirbuster, Nuclei, etc
+- Etc ++
 
 ### Security Knowledge
 - Web Application Security 🕸️
+- Network Packet Tracking
 - Network Security 🌐
 - Cryptography 🔒
 - Reverse Engineering ⚙️
 - Vulnerability Assessment 🎯
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🚀 Recent Projects
 
 ### Development Projects
-- [E-commerce Platform (MERN Stack)](🔗)
-- [Real-time Chat Application (Next.js + Socket.io)](🔗)
-- [Automation Scripts Collection (Python+Bash)](🔗)
+- [Data Management System using HTML, CSS, Node JS](🔗)
+- [Real-time Chat Application (React js, Node JS and Firebase Realtime Database)](🔗)
+- [Automation Scripts Collection (Python+Bash) For Information Gathering From The Websites](🔗)
 
 ### Security Projects
+- [Vulnarable Machine Creation](🔗)
 - [Vulnerable Web App Lab](🔗)
 - [Custom Penetration Testing Toolkit](🔗)
 - [CTF Writeups Collection](🔗)
+- [Thorough Knowledge on Linux/Kali Linux (Linux Customisation, Directory System, Custom/Auto/Manual Network Configuration )](🔗)
+- Etc
 
 ## 📫 Let's Connect!
 I'm always open to interesting collaborations on development or security projects. Feel free to reach out!
