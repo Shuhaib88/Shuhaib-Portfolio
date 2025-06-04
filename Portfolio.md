@@ -1,9 +1,7 @@
 # Hi there, I'm Muhammed Shuhaib! 👋
 
 ### Full Stack Developer & Cybersecurity Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-shuhaib-63b709227/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111827?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/813709)
+---
 
 ## 🛠️ Development Skills
 
@@ -18,6 +16,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 
 ### Languages
@@ -38,8 +37,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **ORM/Query Builders**
+
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ## 🔐 Cybersecurity Skills
 
@@ -63,6 +64,9 @@
 - Etc ++
 
 ### Security Knowledge
+- Windows and Linux OS
+- Web Application Vulnarability and System Vulnarability
+- Privilege Escalation Methods
 - Web Application Security 🕸️
 - Network Packet Tracking
 - Network Security 🌐
@@ -70,24 +74,40 @@
 - Reverse Engineering ⚙️
 - Vulnerability Assessment 🎯
 
+### Security Experience
+
+- Worked as an ```Data-Analyst/System-Analyst``` for ```1.5 year At Navodaya```, ```Palakkad```.
+
+- Point out the ```Data Leakage``` in the organization and Implement the mitigation.
+
+- Cyber Security Trainer at ```Redteam Hacker Accademy``` (For 3 Months)
+
+
+## 🚀 Previous Projects
+
+### Development Projects
+- ```Data Management System``` using HTML, CSS, Node JS
+- ```Real-time Chat Application``` (React js, Node JS and Firebase Realtime Database)
+- Few Websites (Demo)
+- [https://twinklecleaningservice.netlify.app/ ](🔗)
 
 ## 🚀 Recent Projects
 
-### Development Projects
-- [Data Management System using HTML, CSS, Node JS](🔗)
-- [Real-time Chat Application (React js, Node JS and Firebase Realtime Database)](🔗)
-- [Automation Scripts Collection (Python+Bash) For Information Gathering From The Websites](🔗)
+- ```Progressive Web Application``` for ```Easy and Confident Management``` of Individual Personal Data in the Organization
+- ```Progressive Web Application``` for the ```Confidential Management of Client Data``` for a ```Gym```
 
 ### Security Projects
-- [Vulnarable Machine Creation](🔗)
-- [Vulnerable Web App Lab](🔗)
-- [Custom Penetration Testing Toolkit](🔗)
-- [CTF Writeups Collection](🔗)
-- [Thorough Knowledge on Linux/Kali Linux (Linux Customisation, Directory System, Custom/Auto/Manual Network Configuration )](🔗)
-- Etc
+- ```Vulnarable Machine Creation```
+- Dumping data rom the web sites using ```Python/Bash Scripting``` 
+- Custom Penetration Testing Tools using ```Python```
+- CTF Writeups Collection
+- Thorough Knowledge on ubuntu/Debain/Kali Linux ```(Linux Customization, Directory System, Custom/Auto/Manual Network Configuration, etc++ )```
+- Etc++
+
+
 
 ## 📫 Let's Connect!
 I'm always open to interesting collaborations on development or security projects. Feel free to reach out!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-shuhaibtuttushuhaib@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-shuhaib-63b709227/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111827?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/813709)
