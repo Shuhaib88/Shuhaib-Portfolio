@@ -3,6 +3,15 @@
 ### Full Stack Developer & Cybersecurity Enthusiast
 ---
 
+### Languages/Script Known
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
 ## 🛠️ Development Skills
 
 ### Frontend Development
@@ -17,13 +26,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🗃️ Databases & Storage
 
@@ -51,16 +53,15 @@
 
 
 ### Penetration Testing Tools
-- Metasploit Framework 💻
-- Burp Suite 🕵️
+- Directory Tools like Gobuster, Dirbuster, Nuclei, etc
+- Cracking Tools like HashCat and John the Ripper 🔑
 - Nmap 🗺️
+- Burp Suite 🕵️
+- Metasploit Framework 💻
 - Wireshark 📡
-- John the Ripper 🔑
 - SQLmap 🗃️
 - Hydra
-- Cracking Tools like HashCat and John
 - Aircrackng
-- Directory Tools like Gobuster, Dirbuster, Nuclei, etc
 - Etc ++
 
 ### Security Knowledge
@@ -73,6 +74,7 @@
 - Cryptography 🔒
 - Reverse Engineering ⚙️
 - Vulnerability Assessment 🎯
+- Etc++
 
 ### Security Experience
 
@@ -96,7 +98,7 @@
 - ```Progressive Web Application``` for ```Easy and Confident Management``` of Individual Personal Data in the Organization
 - ```Progressive Web Application``` for the ```Confidential Management of Client Data``` for a ```Gym```
 
-### Security Projects
+### Security Projects/Activities
 - ```Vulnarable Machine Creation```
 - Dumping data rom the web sites using ```Python/Bash Scripting``` 
 - Custom Penetration Testing Tools using ```Python```
